@@ -1,0 +1,3 @@
+data processing:
+datasets.py: obtain data from different dataset (generate images-label pairs)
+other augmentation code module are desined for different datasets(main methods include flipping,cropping...)
